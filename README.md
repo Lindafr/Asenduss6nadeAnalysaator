@@ -3,7 +3,7 @@ See on osa minu bakalaureusetööst "Pronominaalsete viitesuhete analüüs asend
 
 Programm kannab asendussõnade suhtes käsitsi märgendatud korpusest viitealuste ja asendussõnade andmed Exceli faili.
 **Selleks, et programm töötaks korralikult, on vaja** esimestel ridadel asendada paths-järjendis path'id vastavalt korpuse failide
-asukohale Teie arvutis. 
+asukohale Teie arvutis. Korpuse failid leiab aadressilt https://github.com/EstSyntax/EstAnaphora.
 
 Programm on kirjutatud Pythonis (versioon 3.7.0a2).
 Programmi algoritmi kohta saab rohkem lugeda minu bakatöö peatükis 2.2. 
