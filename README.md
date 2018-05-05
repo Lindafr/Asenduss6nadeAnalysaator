@@ -1,4 +1,4 @@
-# Asenduss6nadeAnalysaator
+# Asendussõnade analüsaator
 See on osa minu bakalaureusetööst "Pronominaalsete viitesuhete analüüs asendussõnade suhtes käsitsi märgendatud korpuses".
 
 Programm kannab asendussõnade suhtes käsitsi märgendatud korpusest viitealuste ja asendussõnade andmed Exceli faili.
