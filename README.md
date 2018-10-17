@@ -12,7 +12,7 @@ Failis AnafoorideAnalyys.xlsx on analüsaatori tulemus.
 
 Autor Linda Freienthal.
 
-# Replacing words analyser
+# Coreference relations analyser
 This is a part of my bachelor thesis "Analysis of pronominal coreferences in corpus with manually annotated coreference relations". 
 
 Program transfers pronouns and their antecedents' data from Estonian Treebank annotated with coreference relations into an Excel file. 
